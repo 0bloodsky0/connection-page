@@ -11,7 +11,7 @@ form{
 .box{
   position: relative;
   margin: auto;
-  width: 210px;
+  width: 240px;
 }
 .ou{
   text-transform: uppercase;
@@ -23,7 +23,7 @@ form{
   line-height: 1.1538;
   background-color: rgb(255, 255, 255);
   width: 40px;
-  left: 85px;
+  left: 100px;
 }
 .ligne{
   top: 22px;
@@ -38,7 +38,7 @@ p{
   font-size: small;
 }
 span{
-  color:blue;
+  color:rgb(0, 123, 255);
 }
 .inputs{
   margin-top: 10px;
@@ -46,10 +46,10 @@ span{
 .input{
   margin-top: 4px;
   height: 25px;
-  width: 210px;
-  font-size: 11px;
+  width: 240px;
+  font-size: 12px;
   background-color: rgb(246, 246, 246);
-  border-width: 0.5px;
+  border-width: 1px;
   border-color: rgb(221, 221, 221);
   border-style:solid;
   border-radius: 3px;
@@ -57,7 +57,7 @@ span{
 }
 .span1{
   position: relative;
-  left: 52px;
+  left: 66px;
   top: 10px;
   font-size: 12px;
 }
@@ -66,7 +66,7 @@ button{
   border-color: transparent;
   background-color: rgb(62, 171, 229);
   border-radius: 7px;
-  width: 215px;
+  width: 245px;
   margin-top: 32px;
   margin-bottom: 10px;
   height: 28px;
