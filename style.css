@@ -10,7 +10,7 @@ body{
   height: 25px;
 }
 .space2{
-  height: 10px;
+  height: 5px;
 }
 .box{
   position: relative;
@@ -61,8 +61,8 @@ span{
   margin-bottom: 22px;
 }
 .input{
-  margin-top: 4px;
-  height: 40px;
+  margin-top: 6px;
+  height: 35px;
   width: 240px;
   font-size: 12px;
   background-color: rgb(246, 246, 246);
@@ -74,9 +74,9 @@ span{
 }
 .span1{
   position: relative;
-  left: 66px;
+  left: 60px;
   bottom: 4px;
-  font-size: 12px;
+  font-size: 14px;
 }
 .span2{
   font-weight:600;
