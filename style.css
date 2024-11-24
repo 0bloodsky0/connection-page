@@ -1,48 +1,37 @@
 body{
   text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 form{
   
 }
+.langue{
+  font-weight: 100;
+}
 .box{
   position: relative;
   margin: auto;
-  width: 240px;
+  width: 210px;
 }
 .ou{
-  padding-top: 0;
-  margin-top: 0;
-  margin-bottom: 0;
-  border-top-width: 0;
-  border-bottom-width: 0;
-  padding-bottom: 0;
   text-transform: uppercase;
-  margin-right: 18px;
-  border-left-width: 0;
-  padding-left: 0;
   flex-direction: column;
-  border-right-width: 0;
   box-sizing: border-box;
-  display: flex;
-  padding-right: 0;
-  flex-shrink: 0;
-  margin-left: 0px;
   font-weight: 600;
-  color: gray
-  align-items: stretch;
-  font-size: .8125rem;
+  color: gray;
   position: relative;
   line-height: 1.1538;
-  flex-grow: 0;
-  vertical-align: baseline;
+  background-color: rgb(255, 255, 255);
+  width: 40px;
+  left: 85px;
 }
 .ligne{
-  top: .45em;
+  top: 22px;
   height: 1px;
   flex-shrink: 1;
   position: relative;
   flex-grow: 1;
-  background-color: rgb(107, 107, 107);
+  background-color: rgb(161, 161, 161);
 }
 p{
   color: rgb(104, 104, 104);
@@ -57,24 +46,33 @@ span{
 .input{
   margin-top: 4px;
   height: 25px;
-  width: 220px;
+  width: 210px;
   font-size: 11px;
   background-color: rgb(246, 246, 246);
   border-width: 0.5px;
   border-color: rgb(221, 221, 221);
   border-style:solid;
   border-radius: 3px;
+  color: rgb(59, 59, 59);
 }
 .span1{
-  margin-top: 50px;
+  position: relative;
+  left: 52px;
+  top: 10px;
+  font-size: 12px;
 }
 button{
   color: white;
   border-color: transparent;
-  background-color: rgb(35, 163, 232);
-  border-radius: 5px;
-  width: 220px;
-  margin-top: 25px;
+  background-color: rgb(62, 171, 229);
+  border-radius: 7px;
+  width: 215px;
+  margin-top: 32px;
   margin-bottom: 10px;
-  height: 25px;
+  height: 28px;
+  font-size: 13px;
+  font-weight: bold;
+}
+.span2{
+  font-weight:600;
 }
